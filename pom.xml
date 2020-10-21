@@ -34,7 +34,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.distributed_system.cluster.LeaderNode</mainClass>
+                            <mainClass>org.distributed_system.Application</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
